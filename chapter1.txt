@@ -1,1 +1,2 @@
-this is story.
+This is a story.
+This is greate story.
